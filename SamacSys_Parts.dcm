@@ -1,0 +1,153 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555D
+D NE555DG4, Timer, 4.5 To 16V, 8-Pin SOIC-8
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NJM2747V-TE2
+D Operational Amplifiers - Op Amps Quad Single Supply Op Amp SSOP-14
+K
+F http://www.njr.com/semicon/PDF/NJM2747_E.pdf
+$ENDCMP
+#
+$CMP 3362P-1-202LF
+D 3362P top adj cermet trimmer 2K 6mm Bourns 3362P Series Through Hole Cermet Trimmer Resistor with Pin Terminations, 2k +/-10% 0.5W +/-100ppm/C Top Adjust
+K
+F https://componentsearchengine.com/Datasheets/1/3362P-1-202LF.pdf
+$ENDCMP
+#
+$CMP EC11E15244B2
+D ALPS - EC11E15244B2 - ENCODER, VERTICAL, 11MM, 30DET,15PPR
+K
+F http://www.farnell.com/datasheets/2576614.pdf
+$ENDCMP
+#
+$CMP KLPX-0848A-2-O
+D RCA Phono Connectors PCB RIGHT ANGLE JACK ORANGE
+K
+F http://www.kycon.com/Pub_Eng_Draw/KLPX-0848A-2-X.pdf
+$ENDCMP
+#
+$CMP 3386T-EY5-103TR
+D Square Trimming Potentionmeter, TSR-3386
+K
+F http://akizukidenshi.com/download/ds/suntan/tsr-3386.pdf
+$ENDCMP
+#
+$CMP 3362F-1-104LF
+D BOURNS - 3362F-1-104LF - POT, TRIMMER, 100KOHM, 1TURN, PANEL
+K
+F https://www.bourns.com/docs/Product-Datasheets/3362.pdf
+$ENDCMP
+#
+$CMP 3342
+D Adafruit Accessories 2x40 Right Angle Edge Connector for micro:bit
+K
+F http://www.mouser.com/ds/2/737/Micro-Bit_connector_datasheet-1222668.pdf
+$ENDCMP
+#
+$CMP ESP32-WROOM-32D_(8MB)
+D WiFi Modules (802.11) SMD Module, ESP32-D0WD, 64Mbits SPI flash, UART mode, PCB antenna
+K
+F https://www.mouser.com/datasheet/2/891/esp32-wroom-32d_esp32-wroom-32u_datasheet_en-1365844.pdf
+$ENDCMP
+#
+$CMP 82
+D KEYSTONE - 82 - CLIP, BATTERY, SNAP IN, AAA, PK5
+K
+F http://www.keyelco.com/product-pdf.cfm?p=827
+$ENDCMP
+#
+$CMP NJM2884U1-33-TE1
+D Low Dropout Voltage Regulator New Japan Radio NJM2884U1-33-TE1, LDO Voltage Regulator, 0.65A, 3.3 V +/-1%, 5-Pin SOT-89
+K
+F http://www.njr.com/semicon/PDF/NJM2884_2884A_E.pdf
+$ENDCMP
+#
+$CMP MCP4726A0T-E_CH
+D 12-bit DAC, NV, 1-channel, I2C, SOT23-6 Microchip MCP4726A0T-E/CH, 12 bit Serial DAC, 6-Pin SOT-23
+K
+F http://docs-emea.rs-online.com/webdocs/1381/0900766b81381091.pdf
+$ENDCMP
+#
+$CMP ST-005-G
+D Phone Jack
+K
+F http://akizukidenshi.com/download/ds/switronic/ST-005-G.pdf
+$ENDCMP
+#
+$CMP RK09K1130AV7
+D Audio single pot. 5K Vertical 20mm,1B Alps RK09K Series, Linear Potentiometer with a 6 mm Dia. Shaft, 5k, +/-20%, Through Hole
+K
+F http://docs-emea.rs-online.com/webdocs/0f4c/0900766b80f4c571.pdf
+$ENDCMP
+#
+$CMP 2SK4033(TE16L1,NQ)
+D Toshiba 2SK4033(TE16L1,NQ) N-channel MOSFET Transistor, 5 A, 60 V, 3-Pin PW Mold
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=5829&prodName=2SK4033
+$ENDCMP
+#
+$CMP DEV-12587
+D Arduino Pro Micro
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Sparkfun%20PDFs/ProMicro&Fio_v3_HookupGuide_Web.pdf
+$ENDCMP
+#
+$CMP PAM2401SCADJ
+D DiodesZetex PAM2401SCADJ, Step Down DC-DC Converter, 1000mA, Adjustable, 2.5  5 V, 8-Pin MSOP 8
+K
+F https://www.diodes.com/assets/Datasheets/PAM2401.pdf
+$ENDCMP
+#
+$CMP FDA1055-H-1R2M=P3
+D Fixed Inductors 1.2uH 2.9mOhms 20A +/-20%
+K
+F https://www.murata.com/~/media/webrenewal/support/library/catalog/products/inductor/chip/o05e.ashx?la=en-gb
+$ENDCMP
+#
+$CMP ZX62R-B-5P(30)
+D Hirose ZX, Straight SMT, Type B Version 2.0 Micro USB Connector Receptacle
+K
+F http://www.farnell.com/datasheets/2360818.pdf
+$ENDCMP
+#
+$CMP DM3AT-SF-PEJM5(40)
+D Micro,std mount SD Memory Card Micro,std mount SD Memory Card
+K
+F http://uk.rs-online.com/web/p/products/7079520
+$ENDCMP
+#
+$CMP MNR04MRAPJ103
+D 10k Ohm +/-5% 62.5mW Power Per Element Isolated 4 Resistor Network/Array +/-200ppm/C 0804, Convex, Long Side Terminals
+K
+F http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor_network/mnr_g.pdf
+$ENDCMP
+#
+$CMP RK0972A503L15F
+D variable resistor
+K
+F http://akizukidenshi.com/download/ds/supertech/RK0972A503L15F.pdf
+$ENDCMP
+#
+$CMP Raspberry_Pi_Zero_W_(v1.3)
+D Raspberry Pi Zero W (v1.3) Single-board Computers
+K
+F https://cdn.sparkfun.com/assets/learn_tutorials/6/7/6/PiZero_1.pdf
+$ENDCMP
+#
+$CMP FE1.1S
+D USB 2.0 HIGH SPEED 4-PORT HUB CONTROLLER
+K
+F https://cdn-shop.adafruit.com/product-files/2991/FE1.1s+Data+Sheet+(Rev.+1.0).pdf
+$ENDCMP
+#
+$CMP USB-4AF203AS
+D USB Connector, A type Female, Dual Port 4P x 2 Stacked, Right Angle type.
+K
+F http://akizukidenshi.com/download/ds/useconn/USB-4AF203AS-CT.PDF
+$ENDCMP
+#
+#End Doc Library
